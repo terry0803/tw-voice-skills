@@ -1,0 +1,3124 @@
+{
+"meta": {
+"built": "2026-11-20 00:35",
+"n_casual": 131038,
+"casual_groups": {
+"blogger": 20052,
+"forum": 1343,
+"pixnet": 108898,
+"gamerhome": 745
+},
+"n_body_docs": 10409,
+"n_body_chunks": 57241,
+"n_abstract": 15968,
+"n_spoken_chunks": 39906,
+"n_ai": 51,
+"rare": 0.01,
+"validation_casual": {
+"rare_items": 126,
+"human_ge1": 0.213,
+"human_ge2": 0.044,
+"ai_ge1": 0.843,
+"ai_ge2": 0.686
+},
+"validation_body": {
+"rare_items": 119,
+"human_ge1": 0.201,
+"human_ge2": 0.03,
+"ai_ge1": 0.863,
+"ai_ge2": 0.667
+}
+},
+"items": [
+{
+"cat": "開場套語",
+"label": "在這個／當今……的時代",
+"casual": 0.0057,
+"body": 0.00428,
+"abstract": 0.00445,
+"spoken": 0.00343,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 0.00444,
+"blogger": 0.00653,
+"forum": 0.00447,
+"gamerhome": 0.01074
+}
+},
+{
+"cat": "開場套語",
+"label": "隨著……的發展",
+"casual": 0.00675,
+"body": 0.02993,
+"abstract": 0.05261,
+"spoken": 0.0033,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 0.00858,
+"blogger": 0.00554,
+"forum": 0.00521,
+"gamerhome": 0.00537
+}
+},
+{
+"cat": "開場套語",
+"label": "在……的背景下",
+"casual": 0.00156,
+"body": 0.01062,
+"abstract": 0.00501,
+"spoken": 0.0003,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 0.00187,
+"blogger": 0.0017,
+"forum": 0.00074,
+"gamerhome": 0.0
+}
+},
+{
+"cat": "預告與導引",
+"label": "讓我們",
+"casual": 0.06041,
+"body": 0.02531,
+"abstract": 0.00589,
+"spoken": 0.11152,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 0.05789,
+"blogger": 0.07236,
+"forum": 0.035,
+"gamerhome": 0.04295
+}
+},
+{
+"cat": "預告與導引",
+"label": "接下來帶你／讓我們看",
+"casual": 0.00074,
+"body": 0.0001,
+"abstract": 0.0,
+"spoken": 2e-05,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 0.00059,
+"blogger": 0.0008,
+"forum": 0.0,
+"gamerhome": 0.00268
+}
+},
+{
+"cat": "預告與導引",
+"label": "廢話不多說",
+"casual": 0.00412,
+"body": 0.0,
+"abstract": 0.0,
+"spoken": 0.0,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 0.00382,
+"blogger": 0.00115,
+"forum": 0.01564,
+"gamerhome": 0.00537
+}
+},
+{
+"cat": "預告與導引",
+"label": "話不多說",
+"casual": 0.00548,
+"body": 2e-05,
+"abstract": 0.0,
+"spoken": 0.0001,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 0.00524,
+"blogger": 0.00219,
+"forum": 0.01638,
+"gamerhome": 0.0094
+}
+},
+{
+"cat": "預告與導引",
+"label": "以下是",
+"casual": 0.02778,
+"body": 0.00341,
+"abstract": 0.00025,
+"spoken": 0.00325,
+"ai": 0.0196,
+"casual_g": {
+"pixnet": 0.03712,
+"blogger": 0.01845,
+"forum": 0.02755,
+"gamerhome": 0.02819
+}
+},
+{
+"cat": "預告與導引",
+"label": "你可能已經",
+"casual": 0.00014,
+"body": 0.0,
+"abstract": 0.0,
+"spoken": 9e-05,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 0.00019,
+"blogger": 0.00015,
+"forum": 0.0,
+"gamerhome": 0.0
+}
+},
+{
+"cat": "預告與導引",
+"label": "這意味著",
+"casual": 0.00272,
+"body": 0.00704,
+"abstract": 0.00094,
+"spoken": 0.00016,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 0.00308,
+"blogger": 0.00229,
+"forum": 0.00298,
+"gamerhome": 0.00268
+}
+},
+{
+"cat": "預告與導引",
+"label": "換句話說",
+"casual": 0.00758,
+"body": 0.02668,
+"abstract": 0.00294,
+"spoken": 0.01585,
+"ai": 0.0196,
+"casual_g": {
+"pixnet": 0.00511,
+"blogger": 0.01102,
+"forum": 0.00447,
+"gamerhome": 0.00671
+}
+},
+{
+"cat": "預告與導引",
+"label": "也就是說",
+"casual": 0.01877,
+"body": 0.04416,
+"abstract": 0.00463,
+"spoken": 0.05794,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 0.01377,
+"blogger": 0.02119,
+"forum": 0.01936,
+"gamerhome": 0.0349
+}
+},
+{
+"cat": "預告與導引",
+"label": "值得一提的是",
+"casual": 0.00627,
+"body": 0.01169,
+"abstract": 0.00169,
+"spoken": 0.00036,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 0.00677,
+"blogger": 0.00578,
+"forum": 0.0067,
+"gamerhome": 0.00537
+}
+},
+{
+"cat": "預告與導引",
+"label": "值得注意的是",
+"casual": 0.00326,
+"body": 0.04086,
+"abstract": 0.00244,
+"spoken": 7e-05,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 0.00383,
+"blogger": 0.00284,
+"forum": 0.00372,
+"gamerhome": 0.00134
+}
+},
+{
+"cat": "預告與導引",
+"label": "不難發現",
+"casual": 0.0019,
+"body": 0.00615,
+"abstract": 0.00063,
+"spoken": 0.00012,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 0.00189,
+"blogger": 0.00209,
+"forum": 0.00074,
+"gamerhome": 0.00268
+}
+},
+{
+"cat": "預告與導引",
+"label": "顯而易見",
+"casual": 0.00237,
+"body": 0.00554,
+"abstract": 0.00063,
+"spoken": 0.00056,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 0.00139,
+"blogger": 0.00254,
+"forum": 0.00447,
+"gamerhome": 0.00403
+}
+},
+{
+"cat": "預告與導引",
+"label": "眾所周知",
+"casual": 0.00179,
+"body": 0.00479,
+"abstract": 0.00044,
+"spoken": 0.00034,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 0.00129,
+"blogger": 0.00264,
+"forum": 0.00074,
+"gamerhome": 0.00134
+}
+},
+{
+"cat": "預告與導引",
+"label": "毫無疑問",
+"casual": 0.00329,
+"body": 0.00355,
+"abstract": 0.0005,
+"spoken": 0.0004,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 0.00196,
+"blogger": 0.00339,
+"forum": 0.00745,
+"gamerhome": 0.00403
+}
+},
+{
+"cat": "預告與導引",
+"label": "不可否認",
+"casual": 0.00252,
+"body": 0.00381,
+"abstract": 0.00075,
+"spoken": 0.00187,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 0.00205,
+"blogger": 0.00204,
+"forum": 0.00596,
+"gamerhome": 0.00268
+}
+},
+{
+"cat": "說教深度腔",
+"label": "說到底",
+"casual": 0.00337,
+"body": 0.00054,
+"abstract": 0.0,
+"spoken": 0.00349,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 0.00191,
+"blogger": 0.00344,
+"forum": 0.00745,
+"gamerhome": 0.00537
+}
+},
+{
+"cat": "說教深度腔",
+"label": "歸根究柢",
+"casual": 0.00023,
+"body": 0.00024,
+"abstract": 0.0,
+"spoken": 3e-05,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 5e-05,
+"blogger": 0.0003,
+"forum": 0.0,
+"gamerhome": 0.00134
+}
+},
+{
+"cat": "說教深度腔",
+"label": "歸根結底",
+"casual": 0.00017,
+"body": 0.00019,
+"abstract": 0.0,
+"spoken": 0.0,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 0.0003,
+"blogger": 0.0001,
+"forum": 0.0,
+"gamerhome": 0.0
+}
+},
+{
+"cat": "說教深度腔",
+"label": "本質上",
+"casual": 0.00343,
+"body": 0.01918,
+"abstract": 0.00338,
+"spoken": 0.00263,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 0.00175,
+"blogger": 0.00454,
+"forum": 0.00521,
+"gamerhome": 0.00403
+}
+},
+{
+"cat": "說教深度腔",
+"label": "真正的問題在於",
+"casual": 0.00015,
+"body": 0.00016,
+"abstract": 0.0,
+"spoken": 0.00018,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 6e-05,
+"blogger": 0.0001,
+"forum": 0.00074,
+"gamerhome": 0.0
+}
+},
+{
+"cat": "說教深度腔",
+"label": "關鍵在於",
+"casual": 0.00249,
+"body": 0.00977,
+"abstract": 0.00207,
+"spoken": 0.00157,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 0.00277,
+"blogger": 0.00244,
+"forum": 0.00223,
+"gamerhome": 0.00134
+}
+},
+{
+"cat": "說教深度腔",
+"label": "核心在於",
+"casual": 0.0002,
+"body": 0.00135,
+"abstract": 0.0005,
+"spoken": 0.00011,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 8e-05,
+"blogger": 0.0002,
+"forum": 0.00074,
+"gamerhome": 0.0
+}
+},
+{
+"cat": "說教深度腔",
+"label": "關鍵不在……而在……",
+"casual": 0.0001,
+"body": 0.00021,
+"abstract": 0.0,
+"spoken": 0.0,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 4e-05,
+"blogger": 0.0002,
+"forum": 0.0,
+"gamerhome": 0.0
+}
+},
+{
+"cat": "對舉句型",
+"label": "不是……而是……",
+"casual": 0.066,
+"body": 0.05529,
+"abstract": 0.00451,
+"spoken": 0.13548,
+"ai": 0.0588,
+"casual_g": {
+"pixnet": 0.04851,
+"blogger": 0.08204,
+"forum": 0.07595,
+"gamerhome": 0.05772
+}
+},
+{
+"cat": "對舉句型",
+"label": "不僅……更……",
+"casual": 0.01913,
+"body": 0.04736,
+"abstract": 0.01697,
+"spoken": 0.00295,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 0.02685,
+"blogger": 0.01601,
+"forum": 0.00894,
+"gamerhome": 0.00671
+}
+},
+{
+"cat": "對舉句型",
+"label": "不只是……更是……",
+"casual": 0.00163,
+"body": 0.00241,
+"abstract": 0.00044,
+"spoken": 0.00041,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 0.00161,
+"blogger": 0.00194,
+"forum": 0.00149,
+"gamerhome": 0.0
+}
+},
+{
+"cat": "對舉句型",
+"label": "不但……而且……",
+"casual": 0.00643,
+"body": 0.00646,
+"abstract": 0.00132,
+"spoken": 0.00714,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 0.00497,
+"blogger": 0.00798,
+"forum": 0.00596,
+"gamerhome": 0.00671
+}
+},
+{
+"cat": "對舉句型",
+"label": "與其……不如……",
+"casual": 0.01085,
+"body": 0.00671,
+"abstract": 0.00075,
+"spoken": 0.00362,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 0.01011,
+"blogger": 0.01012,
+"forum": 0.01117,
+"gamerhome": 0.02013
+}
+},
+{
+"cat": "對舉句型",
+"label": "只有……才……",
+"casual": 0.03783,
+"body": 0.02434,
+"abstract": 0.00263,
+"spoken": 0.02544,
+"ai": 0.0588,
+"casual_g": {
+"pixnet": 0.03152,
+"blogger": 0.04054,
+"forum": 0.04468,
+"gamerhome": 0.04966
+}
+},
+{
+"cat": "對舉句型",
+"label": "之所以……是因為……",
+"casual": 0.00913,
+"body": 0.01478,
+"abstract": 0.00081,
+"spoken": 0.01292,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 0.00619,
+"blogger": 0.01067,
+"forum": 0.01638,
+"gamerhome": 0.00537
+}
+},
+{
+"cat": "金句與拔高",
+"label": "一場關於",
+"casual": 0.00013,
+"body": 7e-05,
+"abstract": 6e-05,
+"spoken": 7e-05,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 0.00017,
+"blogger": 0.00015,
+"forum": 0.0,
+"gamerhome": 0.0
+}
+},
+{
+"cat": "金句與拔高",
+"label": "的旅程",
+"casual": 0.01062,
+"body": 0.00187,
+"abstract": 0.00088,
+"spoken": 0.00045,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 0.00805,
+"blogger": 0.01322,
+"forum": 0.01042,
+"gamerhome": 0.01074
+}
+},
+{
+"cat": "金句與拔高",
+"label": "標誌著",
+"casual": 0.00043,
+"body": 0.00257,
+"abstract": 0.00038,
+"spoken": 3e-05,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 0.00039,
+"blogger": 0.00065,
+"forum": 0.0,
+"gamerhome": 0.0
+}
+},
+{
+"cat": "金句與拔高",
+"label": "見證了",
+"casual": 0.00204,
+"body": 0.00197,
+"abstract": 0.00063,
+"spoken": 0.00016,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 0.00194,
+"blogger": 0.00239,
+"forum": 0.00149,
+"gamerhome": 0.00134
+}
+},
+{
+"cat": "金句與拔高",
+"label": "體現了",
+"casual": 0.00204,
+"body": 0.00769,
+"abstract": 0.00132,
+"spoken": 7e-05,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 0.00263,
+"blogger": 0.0019,
+"forum": 0.00074,
+"gamerhome": 0.00134
+}
+},
+{
+"cat": "金句與拔高",
+"label": "彰顯了",
+"casual": 0.00054,
+"body": 0.00201,
+"abstract": 0.00044,
+"spoken": 2e-05,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 0.00046,
+"blogger": 0.00065,
+"forum": 0.00074,
+"gamerhome": 0.0
+}
+},
+{
+"cat": "金句與拔高",
+"label": "展現了",
+"casual": 0.00386,
+"body": 0.00763,
+"abstract": 0.00301,
+"spoken": 0.00066,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 0.00389,
+"blogger": 0.00324,
+"forum": 0.00521,
+"gamerhome": 0.00537
+}
+},
+{
+"cat": "金句與拔高",
+"label": "奠定……基礎",
+"casual": 0.00152,
+"body": 0.00811,
+"abstract": 0.002,
+"spoken": 0.00108,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 0.00233,
+"blogger": 0.00135,
+"forum": 0.0,
+"gamerhome": 0.0
+}
+},
+{
+"cat": "金句與拔高",
+"label": "里程碑",
+"casual": 0.0037,
+"body": 0.00486,
+"abstract": 0.00219,
+"spoken": 0.0019,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 0.005,
+"blogger": 0.00294,
+"forum": 0.00223,
+"gamerhome": 0.00268
+}
+},
+{
+"cat": "金句與拔高",
+"label": "轉捩點",
+"casual": 0.00151,
+"body": 0.00238,
+"abstract": 0.00081,
+"spoken": 0.00043,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 0.00106,
+"blogger": 0.0014,
+"forum": 0.00298,
+"gamerhome": 0.00268
+}
+},
+{
+"cat": "金句與拔高",
+"label": "深遠的影響",
+"casual": 0.00045,
+"body": 0.0026,
+"abstract": 0.00144,
+"spoken": 0.0001,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 0.00049,
+"blogger": 0.0006,
+"forum": 0.0,
+"gamerhome": 0.0
+}
+},
+{
+"cat": "金句與拔高",
+"label": "不可磨滅",
+"casual": 0.00029,
+"body": 0.00063,
+"abstract": 0.00013,
+"spoken": 7e-05,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 0.0002,
+"blogger": 0.0003,
+"forum": 0.0,
+"gamerhome": 0.00134
+}
+},
+{
+"cat": "金句與拔高",
+"label": "扮演……角色",
+"casual": 0.01216,
+"body": 0.09212,
+"abstract": 0.04565,
+"spoken": 0.02388,
+"ai": 0.0196,
+"casual_g": {
+"pixnet": 0.01178,
+"blogger": 0.01322,
+"forum": 0.01191,
+"gamerhome": 0.00805
+}
+},
+{
+"cat": "AI 高頻詞",
+"label": "至關重要",
+"casual": 0.00155,
+"body": 0.00528,
+"abstract": 0.00294,
+"spoken": 0.00031,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 0.00195,
+"blogger": 0.0016,
+"forum": 0.00074,
+"gamerhome": 0.0
+}
+},
+{
+"cat": "AI 高頻詞",
+"label": "不可或缺",
+"casual": 0.00729,
+"body": 0.01826,
+"abstract": 0.0144,
+"spoken": 0.00194,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 0.00779,
+"blogger": 0.00504,
+"forum": 0.01266,
+"gamerhome": 0.0094
+}
+},
+{
+"cat": "AI 高頻詞",
+"label": "舉足輕重",
+"casual": 0.00136,
+"body": 0.00564,
+"abstract": 0.00388,
+"spoken": 0.00054,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 0.00129,
+"blogger": 0.0016,
+"forum": 0.00074,
+"gamerhome": 0.00134
+}
+},
+{
+"cat": "AI 高頻詞",
+"label": "無縫",
+"casual": 0.00339,
+"body": 0.00246,
+"abstract": 0.001,
+"spoken": 0.0027,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 0.00406,
+"blogger": 0.00274,
+"forum": 0.00149,
+"gamerhome": 0.00671
+}
+},
+{
+"cat": "AI 高頻詞",
+"label": "賦能",
+"casual": 7e-05,
+"body": 0.00248,
+"abstract": 0.00069,
+"spoken": 0.00034,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 6e-05,
+"blogger": 0.0001,
+"forum": 0.0,
+"gamerhome": 0.0
+}
+},
+{
+"cat": "AI 高頻詞",
+"label": "閉環",
+"casual": 0.00019,
+"body": 0.00017,
+"abstract": 0.00081,
+"spoken": 0.0,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 0.00016,
+"blogger": 0.0003,
+"forum": 0.0,
+"gamerhome": 0.0
+}
+},
+{
+"cat": "AI 高頻詞",
+"label": "抓手",
+"casual": 0.00031,
+"body": 2e-05,
+"abstract": 0.0,
+"spoken": 0.0,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 0.00069,
+"blogger": 5e-05,
+"forum": 0.0,
+"gamerhome": 0.0
+}
+},
+{
+"cat": "AI 高頻詞",
+"label": "打造",
+"casual": 0.04328,
+"body": 0.01469,
+"abstract": 0.00839,
+"spoken": 0.01846,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 0.06739,
+"blogger": 0.02663,
+"forum": 0.02978,
+"gamerhome": 0.01745
+}
+},
+{
+"cat": "AI 高頻詞",
+"label": "助力",
+"casual": 0.00258,
+"body": 0.00468,
+"abstract": 0.00182,
+"spoken": 0.00149,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 0.00304,
+"blogger": 0.00199,
+"forum": 0.00447,
+"gamerhome": 0.0
+}
+},
+{
+"cat": "AI 高頻詞",
+"label": "深入探討",
+"casual": 0.0005,
+"body": 0.01614,
+"abstract": 0.01434,
+"spoken": 0.00054,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 0.00066,
+"blogger": 0.00055,
+"forum": 0.0,
+"gamerhome": 0.0
+}
+},
+{
+"cat": "AI 高頻詞",
+"label": "全方位",
+"casual": 0.00844,
+"body": 0.0048,
+"abstract": 0.00276,
+"spoken": 0.00226,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 0.01467,
+"blogger": 0.00454,
+"forum": 0.00372,
+"gamerhome": 0.00134
+}
+},
+{
+"cat": "AI 高頻詞",
+"label": "多維度",
+"casual": 0.0001,
+"body": 0.00119,
+"abstract": 0.001,
+"spoken": 0.00013,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 9e-05,
+"blogger": 0.00015,
+"forum": 0.0,
+"gamerhome": 0.0
+}
+},
+{
+"cat": "AI 高頻詞",
+"label": "持續優化",
+"casual": 0.00014,
+"body": 2e-05,
+"abstract": 0.00031,
+"spoken": 0.00033,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 0.00024,
+"blogger": 0.0001,
+"forum": 0.0,
+"gamerhome": 0.0
+}
+},
+{
+"cat": "AI 高頻詞",
+"label": "嶄新",
+"casual": 0.0056,
+"body": 0.00851,
+"abstract": 0.00445,
+"spoken": 0.00104,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 0.00676,
+"blogger": 0.00479,
+"forum": 0.00596,
+"gamerhome": 0.00268
+}
+},
+{
+"cat": "AI 高頻詞",
+"label": "強大",
+"casual": 0.03301,
+"body": 0.01964,
+"abstract": 0.00808,
+"spoken": 0.00441,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 0.02468,
+"blogger": 0.02673,
+"forum": 0.05808,
+"gamerhome": 0.08591
+}
+},
+{
+"cat": "AI 高頻詞",
+"label": "高效",
+"casual": 0.00856,
+"body": 0.00692,
+"abstract": 0.01979,
+"spoken": 0.00147,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 0.01186,
+"blogger": 0.00703,
+"forum": 0.00223,
+"gamerhome": 0.00805
+}
+},
+{
+"cat": "AI 高頻詞",
+"label": "精準",
+"casual": 0.01274,
+"body": 0.01592,
+"abstract": 0.0196,
+"spoken": 0.01412,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 0.01463,
+"blogger": 0.01197,
+"forum": 0.01489,
+"gamerhome": 0.00134
+}
+},
+{
+"cat": "AI 高頻詞",
+"label": "穩健",
+"casual": 0.00492,
+"body": 0.01001,
+"abstract": 0.00526,
+"spoken": 0.00513,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 0.00675,
+"blogger": 0.00434,
+"forum": 0.00074,
+"gamerhome": 0.00403
+}
+},
+{
+"cat": "AI 高頻詞",
+"label": "可擴展",
+"casual": 0.00013,
+"body": 0.001,
+"abstract": 0.00094,
+"spoken": 7e-05,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 0.00016,
+"blogger": 0.00015,
+"forum": 0.0,
+"gamerhome": 0.0
+}
+},
+{
+"cat": "AI 高頻詞",
+"label": "優化",
+"casual": 0.00685,
+"body": 0.0065,
+"abstract": 0.0228,
+"spoken": 0.00963,
+"ai": 0.0392,
+"casual_g": {
+"pixnet": 0.00972,
+"blogger": 0.00404,
+"forum": 0.00819,
+"gamerhome": 0.00403
+}
+},
+{
+"cat": "立場真空",
+"label": "各有優缺點",
+"casual": 0.00034,
+"body": 0.00035,
+"abstract": 0.00013,
+"spoken": 0.00021,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 0.00028,
+"blogger": 0.00035,
+"forum": 0.00074,
+"gamerhome": 0.0
+}
+},
+{
+"cat": "立場真空",
+"label": "因人而異",
+"casual": 0.00349,
+"body": 0.00255,
+"abstract": 0.0005,
+"spoken": 0.00038,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 0.00269,
+"blogger": 0.00374,
+"forum": 0.00372,
+"gamerhome": 0.00671
+}
+},
+{
+"cat": "立場真空",
+"label": "見仁見智",
+"casual": 0.00345,
+"body": 0.00072,
+"abstract": 0.00019,
+"spoken": 0.00218,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 0.00385,
+"blogger": 0.00209,
+"forum": 0.00596,
+"gamerhome": 0.00537
+}
+},
+{
+"cat": "立場真空",
+"label": "值得深思",
+"casual": 0.00048,
+"body": 0.00166,
+"abstract": 0.00044,
+"spoken": 0.00012,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 0.00042,
+"blogger": 0.00075,
+"forum": 0.0,
+"gamerhome": 0.0
+}
+},
+{
+"cat": "立場真空",
+"label": "取決於……因素",
+"casual": 4e-05,
+"body": 0.00065,
+"abstract": 6e-05,
+"spoken": 0.0,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 9e-05,
+"blogger": 0.0,
+"forum": 0.0,
+"gamerhome": 0.0
+}
+},
+{
+"cat": "假坦白與戲劇化",
+"label": "說實話",
+"casual": 0.00458,
+"body": 0.00024,
+"abstract": 0.0,
+"spoken": 0.00296,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 0.00469,
+"blogger": 0.00419,
+"forum": 0.00521,
+"gamerhome": 0.00537
+}
+},
+{
+"cat": "假坦白與戲劇化",
+"label": "老實說",
+"casual": 0.02458,
+"body": 0.00054,
+"abstract": 0.0,
+"spoken": 0.0103,
+"ai": 0.0196,
+"casual_g": {
+"pixnet": 0.01963,
+"blogger": 0.02359,
+"forum": 0.03053,
+"gamerhome": 0.05369
+}
+},
+{
+"cat": "假坦白與戲劇化",
+"label": "說真的",
+"casual": 0.02538,
+"body": 0.00028,
+"abstract": 0.0,
+"spoken": 0.01715,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 0.029,
+"blogger": 0.01696,
+"forum": 0.03649,
+"gamerhome": 0.03758
+}
+},
+{
+"cat": "假坦白與戲劇化",
+"label": "坦白說",
+"casual": 0.00486,
+"body": 0.00035,
+"abstract": 0.0,
+"spoken": 0.01258,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 0.00367,
+"blogger": 0.00608,
+"forum": 0.00223,
+"gamerhome": 0.0094
+}
+},
+{
+"cat": "假坦白與戲劇化",
+"label": "那一刻",
+"casual": 0.00857,
+"body": 0.00096,
+"abstract": 0.00019,
+"spoken": 0.00108,
+"ai": 0.0392,
+"casual_g": {
+"pixnet": 0.0074,
+"blogger": 0.01052,
+"forum": 0.00447,
+"gamerhome": 0.01074
+}
+},
+{
+"cat": "假坦白與戲劇化",
+"label": "愣了一下",
+"casual": 0.00142,
+"body": 5e-05,
+"abstract": 0.0,
+"spoken": 2e-05,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 0.00143,
+"blogger": 0.0012,
+"forum": 0.00074,
+"gamerhome": 0.00403
+}
+},
+{
+"cat": "假坦白與戲劇化",
+"label": "沉默了幾秒",
+"casual": 0.00011,
+"body": 0.0,
+"abstract": 0.0,
+"spoken": 0.0,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 6e-05,
+"blogger": 0.0,
+"forum": 0.0,
+"gamerhome": 0.00134
+}
+},
+{
+"cat": "假坦白與戲劇化",
+"label": "所有的……都值得",
+"casual": 0.00065,
+"body": 7e-05,
+"abstract": 0.0,
+"spoken": 2e-05,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 0.00058,
+"blogger": 0.0004,
+"forum": 0.00223,
+"gamerhome": 0.0
+}
+},
+{
+"cat": "收尾套語",
+"label": "總而言之",
+"casual": 0.00643,
+"body": 0.00648,
+"abstract": 0.00125,
+"spoken": 0.00175,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 0.00382,
+"blogger": 0.00534,
+"forum": 0.01415,
+"gamerhome": 0.01745
+}
+},
+{
+"cat": "收尾套語",
+"label": "綜上所述",
+"casual": 0.00039,
+"body": 0.0243,
+"abstract": 0.00395,
+"spoken": 0.00053,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 0.00025,
+"blogger": 0.0005,
+"forum": 0.00074,
+"gamerhome": 0.0
+}
+},
+{
+"cat": "收尾套語",
+"label": "總的來說",
+"casual": 0.00169,
+"body": 0.0026,
+"abstract": 0.00013,
+"spoken": 0.0003,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 0.00105,
+"blogger": 0.00185,
+"forum": 0.00223,
+"gamerhome": 0.00403
+}
+},
+{
+"cat": "收尾套語",
+"label": "總結來說",
+"casual": 0.00146,
+"body": 0.00227,
+"abstract": 0.00207,
+"spoken": 0.00014,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 0.0005,
+"blogger": 0.00185,
+"forum": 0.00372,
+"gamerhome": 0.00134
+}
+},
+{
+"cat": "收尾套語",
+"label": "讓我們一起",
+"casual": 0.00315,
+"body": 0.00024,
+"abstract": 0.0,
+"spoken": 0.00112,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 0.00383,
+"blogger": 0.00279,
+"forum": 0.00298,
+"gamerhome": 0.00134
+}
+},
+{
+"cat": "收尾套語",
+"label": "未來可期",
+"casual": 6e-05,
+"body": 0.0,
+"abstract": 0.0,
+"spoken": 0.0,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 0.00015,
+"blogger": 0.0,
+"forum": 0.0,
+"gamerhome": 0.0
+}
+},
+{
+"cat": "收尾套語",
+"label": "拭目以待",
+"casual": 0.00184,
+"body": 0.00012,
+"abstract": 0.0,
+"spoken": 0.00156,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 0.00185,
+"blogger": 0.0016,
+"forum": 0.00223,
+"gamerhome": 0.00268
+}
+},
+{
+"cat": "收尾套語",
+"label": "無限可能",
+"casual": 0.00123,
+"body": 0.00058,
+"abstract": 0.00044,
+"spoken": 2e-05,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 0.00122,
+"blogger": 0.00135,
+"forum": 0.00074,
+"gamerhome": 0.00134
+}
+},
+{
+"cat": "收尾套語",
+"label": "共同努力",
+"casual": 0.00226,
+"body": 0.00271,
+"abstract": 0.00132,
+"spoken": 0.00692,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 0.00337,
+"blogger": 0.0019,
+"forum": 0.0,
+"gamerhome": 0.00134
+}
+},
+{
+"cat": "收尾套語",
+"label": "邁向",
+"casual": 0.00761,
+"body": 0.01855,
+"abstract": 0.00639,
+"spoken": 0.00403,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 0.00882,
+"blogger": 0.00798,
+"forum": 0.00372,
+"gamerhome": 0.00403
+}
+},
+{
+"cat": "收尾套語",
+"label": "最好的時機",
+"casual": 0.00023,
+"body": 3e-05,
+"abstract": 0.0,
+"spoken": 0.00017,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 0.0003,
+"blogger": 0.00025,
+"forum": 0.0,
+"gamerhome": 0.0
+}
+},
+{
+"cat": "收尾套語",
+"label": "如果你也",
+"casual": 0.00239,
+"body": 0.0,
+"abstract": 0.0,
+"spoken": 0.00033,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 0.00348,
+"blogger": 0.00229,
+"forum": 0.0,
+"gamerhome": 0.0
+}
+},
+{
+"cat": "收尾套語",
+"label": "希望這篇",
+"casual": 0.00082,
+"body": 3e-05,
+"abstract": 0.0,
+"spoken": 0.0,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 0.00048,
+"blogger": 0.0005,
+"forum": 0.00372,
+"gamerhome": 0.0
+}
+},
+{
+"cat": "收尾套語",
+"label": "現在，就是",
+"casual": 0.00127,
+"body": 0.00033,
+"abstract": 0.0,
+"spoken": 0.03146,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 0.00132,
+"blogger": 0.00115,
+"forum": 0.00149,
+"gamerhome": 0.00134
+}
+},
+{
+"cat": "心得腔",
+"label": "深刻體會",
+"casual": 0.00089,
+"body": 0.00084,
+"abstract": 0.00038,
+"spoken": 0.00031,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 0.00085,
+"blogger": 0.0009,
+"forum": 0.00149,
+"gamerhome": 0.0
+}
+},
+{
+"cat": "心得腔",
+"label": "深深感受到",
+"casual": 0.00072,
+"body": 0.0001,
+"abstract": 0.0,
+"spoken": 0.00011,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 0.00064,
+"blogger": 0.0011,
+"forum": 0.0,
+"gamerhome": 0.0
+}
+},
+{
+"cat": "心得腔",
+"label": "受益匪淺",
+"casual": 0.00015,
+"body": 0.00021,
+"abstract": 6e-05,
+"spoken": 0.0,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 0.00021,
+"blogger": 0.00015,
+"forum": 0.0,
+"gamerhome": 0.0
+}
+},
+{
+"cat": "心得腔",
+"label": "收穫滿滿",
+"casual": 0.00065,
+"body": 7e-05,
+"abstract": 6e-05,
+"spoken": 0.0,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 0.00063,
+"blogger": 0.00075,
+"forum": 0.0,
+"gamerhome": 0.00134
+}
+},
+{
+"cat": "心得腔",
+"label": "一路走來",
+"casual": 0.00319,
+"body": 0.00091,
+"abstract": 0.00025,
+"spoken": 0.00152,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 0.00313,
+"blogger": 0.00379,
+"forum": 0.00298,
+"gamerhome": 0.0
+}
+},
+{
+"cat": "心得腔",
+"label": "心存感激",
+"casual": 0.00049,
+"body": 7e-05,
+"abstract": 0.0,
+"spoken": 4e-05,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 0.00048,
+"blogger": 0.0005,
+"forum": 0.00074,
+"gamerhome": 0.0
+}
+},
+{
+"cat": "心得腔",
+"label": "滿滿的",
+"casual": 0.02992,
+"body": 0.00042,
+"abstract": 0.00013,
+"spoken": 0.00165,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 0.034,
+"blogger": 0.02513,
+"forum": 0.03202,
+"gamerhome": 0.03087
+}
+},
+{
+"cat": "清單路標",
+"label": "首先……其次……",
+"casual": 0.00453,
+"body": 0.06083,
+"abstract": 0.01929,
+"spoken": 0.0043,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 0.00443,
+"blogger": 0.00514,
+"forum": 0.00298,
+"gamerhome": 0.00403
+}
+},
+{
+"cat": "清單路標",
+"label": "第一，……第二，……",
+"casual": 0.0014,
+"body": 0.00889,
+"abstract": 0.00263,
+"spoken": 0.01095,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 0.00129,
+"blogger": 0.0019,
+"forum": 0.0,
+"gamerhome": 0.00134
+}
+},
+{
+"cat": "諂媚與對話殘留",
+"label": "好問題",
+"casual": 0.00096,
+"body": 0.00026,
+"abstract": 0.0,
+"spoken": 0.0007,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 0.00073,
+"blogger": 0.0008,
+"forum": 0.00074,
+"gamerhome": 0.00403
+}
+},
+{
+"cat": "諂媚與對話殘留",
+"label": "你說的完全正確",
+"casual": 0.0,
+"body": 0.0,
+"abstract": 0.0,
+"spoken": 2e-05,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 0.0,
+"blogger": 0.0,
+"forum": 0.0,
+"gamerhome": 0.0
+}
+},
+{
+"cat": "諂媚與對話殘留",
+"label": "這是很棒的觀察",
+"casual": 0.0,
+"body": 0.0,
+"abstract": 0.0,
+"spoken": 0.0,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 0.0,
+"blogger": 0.0,
+"forum": 0.0,
+"gamerhome": 0.0
+}
+},
+{
+"cat": "諂媚與對話殘留",
+"label": "這個問題我懂",
+"casual": 0.0,
+"body": 0.0,
+"abstract": 0.0,
+"spoken": 0.0,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 0.0,
+"blogger": 0.0,
+"forum": 0.0,
+"gamerhome": 0.0
+}
+},
+{
+"cat": "諂媚與對話殘留",
+"label": "我完全理解你的感受",
+"casual": 0.0,
+"body": 0.0,
+"abstract": 0.0,
+"spoken": 0.0,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 0.0,
+"blogger": 0.0,
+"forum": 0.0,
+"gamerhome": 0.0
+}
+},
+{
+"cat": "諂媚與對話殘留",
+"label": "感謝您的來信",
+"casual": 2e-05,
+"body": 0.0,
+"abstract": 0.0,
+"spoken": 0.0,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 1e-05,
+"blogger": 5e-05,
+"forum": 0.0,
+"gamerhome": 0.0
+}
+},
+{
+"cat": "諂媚與對話殘留",
+"label": "希望對你有幫助",
+"casual": 0.0002,
+"body": 0.0,
+"abstract": 0.0,
+"spoken": 0.0,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 3e-05,
+"blogger": 5e-05,
+"forum": 0.00149,
+"gamerhome": 0.0
+}
+},
+{
+"cat": "諂媚與對話殘留",
+"label": "希望這對你有幫助",
+"casual": 0.0,
+"body": 0.0,
+"abstract": 0.0,
+"spoken": 0.0,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 0.0,
+"blogger": 0.0,
+"forum": 0.0,
+"gamerhome": 0.0
+}
+},
+{
+"cat": "諂媚與對話殘留",
+"label": "以下是修改後",
+"casual": 0.0,
+"body": 0.0,
+"abstract": 0.0,
+"spoken": 0.0,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 0.0,
+"blogger": 0.0,
+"forum": 0.0,
+"gamerhome": 0.0
+}
+},
+{
+"cat": "諂媚與對話殘留",
+"label": "如果需要我",
+"casual": 1e-05,
+"body": 0.0,
+"abstract": 0.0,
+"spoken": 0.00075,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 3e-05,
+"blogger": 0.0,
+"forum": 0.0,
+"gamerhome": 0.0
+}
+},
+{
+"cat": "中國用語",
+"label": "視頻",
+"casual": 0.0046,
+"body": 0.00187,
+"abstract": 0.00094,
+"spoken": 0.00057,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 0.00632,
+"blogger": 0.00339,
+"forum": 0.00372,
+"gamerhome": 0.00268
+}
+},
+{
+"cat": "中國用語",
+"label": "質量",
+"casual": 0.00844,
+"body": 0.01172,
+"abstract": 0.0129,
+"spoken": 0.00238,
+"ai": 0.0196,
+"casual_g": {
+"pixnet": 0.01123,
+"blogger": 0.00658,
+"forum": 0.0067,
+"gamerhome": 0.00537
+}
+},
+{
+"cat": "中國用語",
+"label": "信息",
+"casual": 0.00849,
+"body": 0.0119,
+"abstract": 0.00457,
+"spoken": 0.00051,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 0.01231,
+"blogger": 0.00783,
+"forum": 0.00074,
+"gamerhome": 0.00134
+}
+},
+{
+"cat": "中國用語",
+"label": "網絡",
+"casual": 0.01289,
+"body": 0.0696,
+"abstract": 0.01791,
+"spoken": 0.01132,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 0.01321,
+"blogger": 0.01636,
+"forum": 0.00298,
+"gamerhome": 0.00537
+}
+},
+{
+"cat": "中國用語",
+"label": "軟件",
+"casual": 0.00151,
+"body": 0.00051,
+"abstract": 0.00031,
+"spoken": 0.00035,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 0.00115,
+"blogger": 0.00229,
+"forum": 0.0,
+"gamerhome": 0.00134
+}
+},
+{
+"cat": "中國用語",
+"label": "硬件",
+"casual": 0.00049,
+"body": 0.0001,
+"abstract": 0.00025,
+"spoken": 0.0,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 0.00059,
+"blogger": 0.0006,
+"forum": 0.0,
+"gamerhome": 0.0
+}
+},
+{
+"cat": "中國用語",
+"label": "數據庫",
+"casual": 0.00053,
+"body": 0.00152,
+"abstract": 0.00094,
+"spoken": 0.00024,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 0.00028,
+"blogger": 0.0004,
+"forum": 0.00074,
+"gamerhome": 0.00268
+}
+},
+{
+"cat": "中國用語",
+"label": "服務器",
+"casual": 0.00022,
+"body": 0.0001,
+"abstract": 0.00019,
+"spoken": 7e-05,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 7e-05,
+"blogger": 0.00025,
+"forum": 0.0,
+"gamerhome": 0.00134
+}
+},
+{
+"cat": "中國用語",
+"label": "屏幕",
+"casual": 0.00111,
+"body": 0.00049,
+"abstract": 0.00025,
+"spoken": 3e-05,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 0.00094,
+"blogger": 0.00115,
+"forum": 0.00149,
+"gamerhome": 0.00134
+}
+},
+{
+"cat": "中國用語",
+"label": "鼠標",
+"casual": 0.00055,
+"body": 0.00014,
+"abstract": 0.0,
+"spoken": 0.0,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 0.00069,
+"blogger": 0.00025,
+"forum": 0.00074,
+"gamerhome": 0.00134
+}
+},
+{
+"cat": "中國用語",
+"label": "打印",
+"casual": 0.0016,
+"body": 0.00028,
+"abstract": 0.00019,
+"spoken": 0.0001,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 0.00237,
+"blogger": 0.0013,
+"forum": 0.00074,
+"gamerhome": 0.0
+}
+},
+{
+"cat": "中國用語",
+"label": "智能",
+"casual": 0.00631,
+"body": 0.01048,
+"abstract": 0.00445,
+"spoken": 0.00265,
+"ai": 0.0196,
+"casual_g": {
+"pixnet": 0.00768,
+"blogger": 0.00598,
+"forum": 0.00298,
+"gamerhome": 0.00537
+}
+},
+{
+"cat": "中國用語",
+"label": "移動端",
+"casual": 4e-05,
+"body": 0.0,
+"abstract": 0.00019,
+"spoken": 0.0,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 6e-05,
+"blogger": 5e-05,
+"forum": 0.0,
+"gamerhome": 0.0
+}
+},
+{
+"cat": "中國用語",
+"label": "博主",
+"casual": 0.00105,
+"body": 0.0001,
+"abstract": 0.0,
+"spoken": 2e-05,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 0.00028,
+"blogger": 0.00224,
+"forum": 0.0,
+"gamerhome": 0.0
+}
+},
+{
+"cat": "中國用語",
+"label": "水平",
+"casual": 0.0167,
+"body": 0.0253,
+"abstract": 0.01516,
+"spoken": 0.004,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 0.01803,
+"blogger": 0.01875,
+"forum": 0.01042,
+"gamerhome": 0.00537
+}
+},
+{
+"cat": "中國用語",
+"label": "立馬",
+"casual": 0.01185,
+"body": 0.00035,
+"abstract": 0.00013,
+"spoken": 0.00052,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 0.01497,
+"blogger": 0.01027,
+"forum": 0.00819,
+"gamerhome": 0.00805
+}
+},
+{
+"cat": "中國用語",
+"label": "挺（好、不錯……）",
+"casual": 0.04315,
+"body": 0.00012,
+"abstract": 0.0,
+"spoken": 0.00055,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 0.07967,
+"blogger": 0.01526,
+"forum": 0.02681,
+"gamerhome": 0.01477
+}
+},
+{
+"cat": "中國用語",
+"label": "給力",
+"casual": 0.00194,
+"body": 0.00014,
+"abstract": 6e-05,
+"spoken": 8e-05,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 0.00165,
+"blogger": 0.00145,
+"forum": 0.00372,
+"gamerhome": 0.00403
+}
+},
+{
+"cat": "中國用語",
+"label": "靠譜",
+"casual": 0.00067,
+"body": 0.0,
+"abstract": 0.0,
+"spoken": 0.0001,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 0.00091,
+"blogger": 0.0005,
+"forum": 0.00074,
+"gamerhome": 0.0
+}
+},
+{
+"cat": "中國用語",
+"label": "接地氣",
+"casual": 0.0005,
+"body": 0.00033,
+"abstract": 0.00013,
+"spoken": 0.00274,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 0.00091,
+"blogger": 0.0003,
+"forum": 0.0,
+"gamerhome": 0.0
+}
+},
+{
+"cat": "中國用語",
+"label": "性價比",
+"casual": 0.00129,
+"body": 0.00014,
+"abstract": 6e-05,
+"spoken": 7e-05,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 0.00122,
+"blogger": 0.0017,
+"forum": 0.00074,
+"gamerhome": 0.0
+}
+},
+{
+"cat": "中國用語",
+"label": "顏值",
+"casual": 0.00128,
+"body": 3e-05,
+"abstract": 6e-05,
+"spoken": 0.0001,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 0.00163,
+"blogger": 0.00065,
+"forum": 0.00298,
+"gamerhome": 0.0
+}
+},
+{
+"cat": "中國用語",
+"label": "默認",
+"casual": 0.00096,
+"body": 0.00098,
+"abstract": 0.00019,
+"spoken": 0.00075,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 0.00062,
+"blogger": 0.0007,
+"forum": 0.00149,
+"gamerhome": 0.00403
+}
+},
+{
+"cat": "中國用語",
+"label": "運營",
+"casual": 0.00249,
+"body": 0.00157,
+"abstract": 0.00182,
+"spoken": 0.00105,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 0.00458,
+"blogger": 0.00125,
+"forum": 0.0,
+"gamerhome": 0.00134
+}
+},
+{
+"cat": "中國用語",
+"label": "兼容",
+"casual": 0.00106,
+"body": 0.00334,
+"abstract": 0.0015,
+"spoken": 0.00036,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 0.00112,
+"blogger": 0.00125,
+"forum": 0.00074,
+"gamerhome": 0.0
+}
+},
+{
+"cat": "中國用語",
+"label": "卸載",
+"casual": 0.00028,
+"body": 0.00024,
+"abstract": 0.00088,
+"spoken": 0.0,
+"ai": 0.0196,
+"casual_g": {
+"pixnet": 0.00023,
+"blogger": 0.00045,
+"forum": 0.0,
+"gamerhome": 0.0
+}
+},
+{
+"cat": "中國用語",
+"label": "反饋",
+"casual": 0.00128,
+"body": 0.0062,
+"abstract": 0.00395,
+"spoken": 0.00099,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 0.00174,
+"blogger": 0.00135,
+"forum": 0.0,
+"gamerhome": 0.0
+}
+},
+{
+"cat": "中國用語",
+"label": "打法",
+"casual": 0.003,
+"body": 0.00016,
+"abstract": 0.0,
+"spoken": 0.00025,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 0.00117,
+"blogger": 0.0011,
+"forum": 0.00968,
+"gamerhome": 0.01611
+}
+},
+{
+"cat": "中國用語",
+"label": "顆粒度",
+"casual": 0.0,
+"body": 9e-05,
+"abstract": 0.00019,
+"spoken": 0.00013,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 0.0,
+"blogger": 0.0,
+"forum": 0.0,
+"gamerhome": 0.0
+}
+},
+{
+"cat": "中國用語",
+"label": "復盤",
+"casual": 2e-05,
+"body": 3e-05,
+"abstract": 0.0,
+"spoken": 0.0,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 1e-05,
+"blogger": 5e-05,
+"forum": 0.0,
+"gamerhome": 0.0
+}
+},
+{
+"cat": "中國用語",
+"label": "支持（軟體功能）",
+"casual": 0.00033,
+"body": 0.0113,
+"abstract": 0.00132,
+"spoken": 0.00313,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 0.00045,
+"blogger": 0.00015,
+"forum": 0.00074,
+"gamerhome": 0.0
+}
+},
+{
+"cat": "中國用語",
+"label": "心理諮詢",
+"casual": 0.00017,
+"body": 0.00044,
+"abstract": 0.0,
+"spoken": 0.00046,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 0.00021,
+"blogger": 0.0002,
+"forum": 0.0,
+"gamerhome": 0.0
+}
+},
+{
+"cat": "中國用語",
+"label": "諮詢師",
+"casual": 0.0004,
+"body": 0.00028,
+"abstract": 0.0,
+"spoken": 0.0001,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 0.00042,
+"blogger": 0.00035,
+"forum": 0.00074,
+"gamerhome": 0.0
+}
+},
+{
+"cat": "中國用語",
+"label": "抑鬱",
+"casual": 0.00213,
+"body": 0.00208,
+"abstract": 0.00019,
+"spoken": 7e-05,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 0.00131,
+"blogger": 0.00264,
+"forum": 0.00298,
+"gamerhome": 0.00268
+}
+},
+{
+"cat": "中國用語",
+"label": "渠道",
+"casual": 0.00305,
+"body": 0.00288,
+"abstract": 0.00182,
+"spoken": 0.00166,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 0.00374,
+"blogger": 0.00324,
+"forum": 0.00074,
+"gamerhome": 0.00134
+}
+},
+{
+"cat": "中國用語",
+"label": "信用歷史",
+"casual": 0.0,
+"body": 0.0,
+"abstract": 0.0,
+"spoken": 0.0,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 0.0,
+"blogger": 0.0,
+"forum": 0.0,
+"gamerhome": 0.0
+}
+},
+{
+"cat": "中國用語",
+"label": "數碼",
+"casual": 0.00186,
+"body": 0.0004,
+"abstract": 0.00056,
+"spoken": 3e-05,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 0.00091,
+"blogger": 0.00259,
+"forum": 0.00149,
+"gamerhome": 0.00403
+}
+},
+{
+"cat": "中國用語",
+"label": "酸奶",
+"casual": 0.00103,
+"body": 9e-05,
+"abstract": 0.0,
+"spoken": 0.0,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 0.00084,
+"blogger": 0.00085,
+"forum": 0.00298,
+"gamerhome": 0.0
+}
+},
+{
+"cat": "中國用語",
+"label": "公交",
+"casual": 0.00093,
+"body": 0.00028,
+"abstract": 0.0,
+"spoken": 3e-05,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 0.00129,
+"blogger": 0.00075,
+"forum": 0.00074,
+"gamerhome": 0.0
+}
+},
+{
+"cat": "中國用語",
+"label": "帖子",
+"casual": 0.00085,
+"body": 0.0004,
+"abstract": 0.0,
+"spoken": 5e-05,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 0.00051,
+"blogger": 0.00135,
+"forum": 0.0,
+"gamerhome": 0.00134
+}
+},
+{
+"cat": "中國用語",
+"label": "營銷",
+"casual": 0.00133,
+"body": 0.00079,
+"abstract": 0.00125,
+"spoken": 0.00037,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 0.00201,
+"blogger": 0.001,
+"forum": 0.0,
+"gamerhome": 0.00134
+}
+},
+{
+"cat": "中國用語",
+"label": "醫保",
+"casual": 0.00055,
+"body": 3e-05,
+"abstract": 0.0,
+"spoken": 0.00044,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 0.00083,
+"blogger": 0.0005,
+"forum": 0.0,
+"gamerhome": 0.0
+}
+},
+{
+"cat": "中國用語",
+"label": "點贊",
+"casual": 0.00032,
+"body": 7e-05,
+"abstract": 0.0,
+"spoken": 3e-05,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 0.00043,
+"blogger": 0.00015,
+"forum": 0.00074,
+"gamerhome": 0.0
+}
+},
+{
+"cat": "中國用語",
+"label": "閨蜜",
+"casual": 0.00124,
+"body": 0.0,
+"abstract": 0.0,
+"spoken": 8e-05,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 0.0022,
+"blogger": 0.0004,
+"forum": 0.00149,
+"gamerhome": 0.0
+}
+},
+{
+"cat": "助理口吻",
+"label": "如果您……",
+"casual": 0.00644,
+"body": 0.0003,
+"abstract": 0.0,
+"spoken": 0.00411,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 0.00668,
+"blogger": 0.00688,
+"forum": 0.00521,
+"gamerhome": 0.00403
+}
+},
+{
+"cat": "助理口吻",
+"label": "建議您",
+"casual": 0.00197,
+"body": 3e-05,
+"abstract": 0.0,
+"spoken": 0.00028,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 0.00291,
+"blogger": 0.00145,
+"forum": 0.0,
+"gamerhome": 0.00268
+}
+},
+{
+"cat": "助理口吻",
+"label": "您可以／您需要／您應該",
+"casual": 0.00746,
+"body": 0.00063,
+"abstract": 0.0,
+"spoken": 0.00794,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 0.00964,
+"blogger": 0.00658,
+"forum": 0.00372,
+"gamerhome": 0.00537
+}
+},
+{
+"cat": "助理口吻",
+"label": "根據您",
+"casual": 9e-05,
+"body": 0.0001,
+"abstract": 0.0,
+"spoken": 0.00022,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 0.00013,
+"blogger": 0.0001,
+"forum": 0.0,
+"gamerhome": 0.0
+}
+},
+{
+"cat": "助理口吻",
+"label": "可以考慮",
+"casual": 0.00926,
+"body": 0.0025,
+"abstract": 0.00069,
+"spoken": 0.01593,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 0.00715,
+"blogger": 0.00903,
+"forum": 0.01713,
+"gamerhome": 0.01074
+}
+},
+{
+"cat": "助理口吻",
+"label": "你可以嘗試／可以嘗試以下",
+"casual": 0.0031,
+"body": 0.00142,
+"abstract": 0.00031,
+"spoken": 0.00159,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 0.00216,
+"blogger": 0.00354,
+"forum": 0.00521,
+"gamerhome": 0.00268
+}
+},
+{
+"cat": "助理口吻",
+"label": "以下幾種／以下是一些",
+"casual": 0.00323,
+"body": 0.01025,
+"abstract": 0.00313,
+"spoken": 0.00155,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 0.00183,
+"blogger": 0.00439,
+"forum": 0.00298,
+"gamerhome": 0.00537
+}
+},
+{
+"cat": "助理口吻",
+"label": "通常情況下",
+"casual": 0.0002,
+"body": 0.00017,
+"abstract": 0.0,
+"spoken": 0.0,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 0.00017,
+"blogger": 0.0001,
+"forum": 0.00074,
+"gamerhome": 0.0
+}
+},
+{
+"cat": "助理口吻",
+"label": "具體情況",
+"casual": 0.00046,
+"body": 0.00124,
+"abstract": 0.0,
+"spoken": 9e-05,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 0.00062,
+"blogger": 0.0003,
+"forum": 0.00074,
+"gamerhome": 0.0
+}
+},
+{
+"cat": "助理口吻",
+"label": "一種常見的",
+"casual": 0.00018,
+"body": 0.00054,
+"abstract": 0.00056,
+"spoken": 0.0,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 0.00028,
+"blogger": 0.00015,
+"forum": 0.0,
+"gamerhome": 0.0
+}
+},
+{
+"cat": "助理口吻",
+"label": "可能包括",
+"casual": 0.00028,
+"body": 0.00185,
+"abstract": 0.00019,
+"spoken": 0.00096,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 0.00024,
+"blogger": 0.00045,
+"forum": 0.0,
+"gamerhome": 0.0
+}
+},
+{
+"cat": "助理口吻",
+"label": "可能會導致",
+"casual": 0.00394,
+"body": 0.01717,
+"abstract": 0.00633,
+"spoken": 0.00134,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 0.00502,
+"blogger": 0.00349,
+"forum": 0.00149,
+"gamerhome": 0.00403
+}
+},
+{
+"cat": "助理口吻",
+"label": "可以幫助你／幫助您",
+"casual": 0.00479,
+"body": 0.00066,
+"abstract": 0.0,
+"spoken": 0.00139,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 0.00534,
+"blogger": 0.00464,
+"forum": 0.00298,
+"gamerhome": 0.00537
+}
+},
+{
+"cat": "助理口吻",
+"label": "希望這些建議",
+"casual": 9e-05,
+"body": 0.0,
+"abstract": 0.0,
+"spoken": 3e-05,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 3e-05,
+"blogger": 0.0,
+"forum": 0.00074,
+"gamerhome": 0.0
+}
+},
+{
+"cat": "助理口吻",
+"label": "尋求專業幫助",
+"casual": 0.00116,
+"body": 0.0033,
+"abstract": 0.0005,
+"spoken": 0.00073,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 0.00125,
+"blogger": 0.00115,
+"forum": 0.00149,
+"gamerhome": 0.0
+}
+},
+{
+"cat": "助理口吻",
+"label": "這可能會",
+"casual": 0.0006,
+"body": 0.00075,
+"abstract": 0.00025,
+"spoken": 0.00155,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 0.0006,
+"blogger": 0.00065,
+"forum": 0.00074,
+"gamerhome": 0.0
+}
+},
+{
+"cat": "工作筆記腔",
+"label": "重跑",
+"casual": 0.00016,
+"body": 2e-05,
+"abstract": 6e-05,
+"spoken": 0.00016,
+"ai": 0.4902,
+"casual_g": {
+"pixnet": 4e-05,
+"blogger": 0.00015,
+"forum": 0.00074,
+"gamerhome": 0.0
+}
+},
+{
+"cat": "工作筆記腔",
+"label": "實跑",
+"casual": 5e-05,
+"body": 0.0,
+"abstract": 0.0,
+"spoken": 0.00018,
+"ai": 0.3922,
+"casual_g": {
+"pixnet": 8e-05,
+"blogger": 5e-05,
+"forum": 0.0,
+"gamerhome": 0.0
+}
+},
+{
+"cat": "工作筆記腔",
+"label": "跑一次",
+"casual": 0.00041,
+"body": 2e-05,
+"abstract": 0.0,
+"spoken": 0.00048,
+"ai": 0.1765,
+"casual_g": {
+"pixnet": 0.00024,
+"blogger": 0.00075,
+"forum": 0.0,
+"gamerhome": 0.0
+}
+},
+{
+"cat": "工作筆記腔",
+"label": "分開報",
+"casual": 2e-05,
+"body": 2e-05,
+"abstract": 0.0,
+"spoken": 0.00023,
+"ai": 0.1569,
+"casual_g": {
+"pixnet": 4e-05,
+"blogger": 0.0,
+"forum": 0.0,
+"gamerhome": 0.0
+}
+},
+{
+"cat": "工作筆記腔",
+"label": "算進去",
+"casual": 0.00066,
+"body": 3e-05,
+"abstract": 0.0,
+"spoken": 0.00354,
+"ai": 0.1373,
+"casual_g": {
+"pixnet": 0.00055,
+"blogger": 0.00065,
+"forum": 0.00074,
+"gamerhome": 0.00134
+}
+},
+{
+"cat": "工作筆記腔",
+"label": "只算",
+"casual": 0.00092,
+"body": 0.00042,
+"abstract": 6e-05,
+"spoken": 0.00087,
+"ai": 0.2157,
+"casual_g": {
+"pixnet": 0.00039,
+"blogger": 0.00085,
+"forum": 0.00223,
+"gamerhome": 0.00268
+}
+},
+{
+"cat": "工作筆記腔",
+"label": "判成",
+"casual": 0.00023,
+"body": 0.0003,
+"abstract": 0.00013,
+"spoken": 0.00019,
+"ai": 0.1961,
+"casual_g": {
+"pixnet": 0.00015,
+"blogger": 0.0002,
+"forum": 0.00074,
+"gamerhome": 0.0
+}
+},
+{
+"cat": "工作筆記腔",
+"label": "擋掉",
+"casual": 0.00042,
+"body": 5e-05,
+"abstract": 0.0,
+"spoken": 0.00102,
+"ai": 0.1765,
+"casual_g": {
+"pixnet": 0.00032,
+"blogger": 0.0003,
+"forum": 0.0,
+"gamerhome": 0.00268
+}
+},
+{
+"cat": "工作筆記腔",
+"label": "逐筆",
+"casual": 0.00012,
+"body": 0.00164,
+"abstract": 0.00038,
+"spoken": 0.00051,
+"ai": 0.2549,
+"casual_g": {
+"pixnet": 0.00014,
+"blogger": 0.00015,
+"forum": 0.0,
+"gamerhome": 0.0
+}
+},
+{
+"cat": "工作筆記腔",
+"label": "在本機",
+"casual": 0.0001,
+"body": 3e-05,
+"abstract": 0.0,
+"spoken": 0.0001,
+"ai": 0.1176,
+"casual_g": {
+"pixnet": 9e-05,
+"blogger": 0.00015,
+"forum": 0.0,
+"gamerhome": 0.0
+}
+},
+{
+"cat": "工作筆記腔",
+"label": "重算",
+"casual": 0.00018,
+"body": 3e-05,
+"abstract": 0.0,
+"spoken": 0.00012,
+"ai": 0.2157,
+"casual_g": {
+"pixnet": 5e-05,
+"blogger": 0.0002,
+"forum": 0.00074,
+"gamerhome": 0.0
+}
+},
+{
+"cat": "工作筆記腔",
+"label": "重新檢查",
+"casual": 7e-05,
+"body": 7e-05,
+"abstract": 0.0,
+"spoken": 5e-05,
+"ai": 0.1176,
+"casual_g": {
+"pixnet": 0.00013,
+"blogger": 5e-05,
+"forum": 0.0,
+"gamerhome": 0.0
+}
+},
+{
+"cat": "人寫口語常用",
+"label": "不過",
+"casual": 0.3843,
+"body": 0.15957,
+"abstract": 0.01497,
+"spoken": 0.18076,
+"ai": 0.0392,
+"casual_g": {
+"pixnet": 0.36599,
+"blogger": 0.36769,
+"forum": 0.44527,
+"gamerhome": 0.50872
+}
+},
+{
+"cat": "人寫口語常用",
+"label": "吧",
+"casual": 0.36631,
+"body": 0.01293,
+"abstract": 0.00132,
+"spoken": 0.12192,
+"ai": 0.0196,
+"casual_g": {
+"pixnet": 0.36312,
+"blogger": 0.33368,
+"forum": 0.41474,
+"gamerhome": 0.51946
+}
+},
+{
+"cat": "人寫口語常用",
+"label": "覺得",
+"casual": 0.34798,
+"body": 0.06775,
+"abstract": 0.00438,
+"spoken": 0.54517,
+"ai": 0.098,
+"casual_g": {
+"pixnet": 0.34389,
+"blogger": 0.33338,
+"forum": 0.38868,
+"gamerhome": 0.4
+}
+},
+{
+"cat": "人寫口語常用",
+"label": "雖然",
+"casual": 0.34524,
+"body": 0.31916,
+"abstract": 0.06576,
+"spoken": 0.21186,
+"ai": 0.0588,
+"casual_g": {
+"pixnet": 0.31422,
+"blogger": 0.33682,
+"forum": 0.42591,
+"gamerhome": 0.46443
+}
+},
+{
+"cat": "人寫口語常用",
+"label": "但是",
+"casual": 0.29763,
+"body": 0.2316,
+"abstract": 0.0682,
+"spoken": 0.75154,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 0.28755,
+"blogger": 0.28601,
+"forum": 0.3522,
+"gamerhome": 0.34497
+}
+},
+{
+"cat": "人寫口語常用",
+"label": "呢",
+"casual": 0.27801,
+"body": 0.06078,
+"abstract": 0.00551,
+"spoken": 0.19184,
+"ai": 0.0392,
+"casual_g": {
+"pixnet": 0.2661,
+"blogger": 0.28361,
+"forum": 0.2621,
+"gamerhome": 0.34899
+}
+},
+{
+"cat": "人寫口語常用",
+"label": "感覺",
+"casual": 0.2663,
+"body": 0.05426,
+"abstract": 0.00676,
+"spoken": 0.10058,
+"ai": 0.0392,
+"casual_g": {
+"pixnet": 0.25326,
+"blogger": 0.25175,
+"forum": 0.32316,
+"gamerhome": 0.34899
+}
+},
+{
+"cat": "人寫口語常用",
+"label": "其實",
+"casual": 0.33797,
+"body": 0.15725,
+"abstract": 0.01697,
+"spoken": 0.64158,
+"ai": 0.1961,
+"casual_g": {
+"pixnet": 0.3053,
+"blogger": 0.35717,
+"forum": 0.37156,
+"gamerhome": 0.36779
+}
+},
+{
+"cat": "人寫口語常用",
+"label": "結果",
+"casual": 0.18491,
+"body": 0.45536,
+"abstract": 0.53432,
+"spoken": 0.22826,
+"ai": 0.8824,
+"casual_g": {
+"pixnet": 0.16473,
+"blogger": 0.1917,
+"forum": 0.2003,
+"gamerhome": 0.24698
+}
+},
+{
+"cat": "人寫口語常用",
+"label": "然後",
+"casual": 0.20628,
+"body": 0.08256,
+"abstract": 0.02223,
+"spoken": 0.36502,
+"ai": 0.0588,
+"casual_g": {
+"pixnet": 0.15269,
+"blogger": 0.22462,
+"forum": 0.27774,
+"gamerhome": 0.31409
+}
+},
+{
+"cat": "人寫口語常用",
+"label": "反正",
+"casual": 0.044,
+"body": 0.00341,
+"abstract": 0.00025,
+"spoken": 0.04072,
+"ai": 0.0196,
+"casual_g": {
+"pixnet": 0.03508,
+"blogger": 0.04349,
+"forum": 0.05808,
+"gamerhome": 0.08188
+}
+},
+{
+"cat": "人寫口語常用",
+"label": "好像",
+"casual": 0.15537,
+"body": 0.01672,
+"abstract": 0.0005,
+"spoken": 0.18412,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 0.13603,
+"blogger": 0.15719,
+"forum": 0.18615,
+"gamerhome": 0.21745
+}
+},
+{
+"cat": "人寫口語常用",
+"label": "有點",
+"casual": 0.2169,
+"body": 0.0138,
+"abstract": 0.00157,
+"spoken": 0.07985,
+"ai": 0.0392,
+"casual_g": {
+"pixnet": 0.20296,
+"blogger": 0.20562,
+"forum": 0.27401,
+"gamerhome": 0.28322
+}
+},
+{
+"cat": "人寫口語常用",
+"label": "蠻",
+"casual": 0.10983,
+"body": 0.01557,
+"abstract": 0.001,
+"spoken": 0.02938,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 0.10716,
+"blogger": 0.09017,
+"forum": 0.17126,
+"gamerhome": 0.14899
+}
+},
+{
+"cat": "人寫口語常用",
+"label": "竟然",
+"casual": 0.0792,
+"body": 0.00811,
+"abstract": 0.00025,
+"spoken": 0.03997,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 0.07518,
+"blogger": 0.08368,
+"forum": 0.06255,
+"gamerhome": 0.10604
+}
+},
+{
+"cat": "人寫口語常用",
+"label": "居然",
+"casual": 0.0525,
+"body": 0.00325,
+"abstract": 0.00019,
+"spoken": 0.01506,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 0.05645,
+"blogger": 0.04748,
+"forum": 0.04244,
+"gamerhome": 0.07785
+}
+},
+{
+"cat": "人寫口語常用",
+"label": "原來",
+"casual": 0.11885,
+"body": 0.03325,
+"abstract": 0.0052,
+"spoken": 0.11891,
+"ai": 0.0196,
+"casual_g": {
+"pixnet": 0.10575,
+"blogger": 0.14218,
+"forum": 0.08786,
+"gamerhome": 0.10604
+}
+},
+{
+"cat": "人寫口語常用",
+"label": "終於",
+"casual": 0.13674,
+"body": 0.02028,
+"abstract": 0.00182,
+"spoken": 0.01217,
+"ai": 0.0,
+"casual_g": {
+"pixnet": 0.15076,
+"blogger": 0.12423,
+"forum": 0.11765,
+"gamerhome": 0.16107
+}
+},
+{
+"cat": "人寫口語常用",
+"label": "剛好",
+"casual": 0.10719,
+"body": 0.01067,
+"abstract": 0.00081,
+"spoken": 0.07559,
+"ai": 0.1961,
+"casual_g": {
+"pixnet": 0.11829,
+"blogger": 0.09266,
+"forum": 0.11988,
+"gamerhome": 0.10738
+}
+},
+{
+"cat": "人寫口語常用",
+"label": "後來",
+"casual": 0.16148,
+"body": 0.08148,
+"abstract": 0.00589,
+"spoken": 0.16737,
+"ai": 0.1765,
+"casual_g": {
+"pixnet": 0.1394,
+"blogger": 0.17519,
+"forum": 0.17945,
+"gamerhome": 0.18523
+}
+},
+{
+"cat": "人寫口語常用",
+"label": "當時",
+"casual": 0.13325,
+"body": 0.18183,
+"abstract": 0.02348,
+"spoken": 0.22131,
+"ai": 0.1765,
+"casual_g": {
+"pixnet": 0.11513,
+"blogger": 0.14562,
+"forum": 0.14966,
+"gamerhome": 0.14228
+}
+}
+]
+}
